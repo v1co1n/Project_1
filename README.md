@@ -1,6 +1,4 @@
-# Project_1
-Skill Factory Project_1 Head Hunter CV database
-
+# SkillFactory Project_1 Head Hunter CV database
 Это учебный проект по анализу резюме базы данных Head Hunter. 
 
 ## Постановка Задачи ✔️
